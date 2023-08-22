@@ -1,6 +1,4 @@
-# Introduction to Sets - Lab
-
-## Introduction
+# Introduction
 
 Probability theory is all around. A common example is in the game of poker or related card games, where players try to calculate the probability of winning a round given the cards they have in their hands. Also, in a business context, probabilities play an important role. Operating in a volatile economy, companies need to take uncertainty into account and this is exactly where probability theory plays a role.
 
